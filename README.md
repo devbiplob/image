@@ -1,2 +1,2 @@
-# image
- https://devbiplob.github.io/image/
+# images
+ https://devbiplob.github.io/images/
